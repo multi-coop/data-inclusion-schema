@@ -25,6 +25,16 @@
       "name": "lon",
       "title": "Longitude",
       "type": "number"
+    },
+    {
+      "name": "latitude",
+      "title": "Latitude",
+      "type": "number"
+    },
+    {
+      "name": "longitude",
+      "title": "Longitude",
+      "type": "number"
     }
   ]
 }
