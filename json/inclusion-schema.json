@@ -1,19 +1,24 @@
 {
   "fields": [
     {
-      "name": "n_ref",
-      "title": "Identifiant",
-      "description": "Identifiant unique",
-      "type": "string"
-    },
-    {
       "name": "siren",
       "title": "N° SIREN",
       "description": "Numéro de SIREN de la structure",
       "type": "string"
     },
     {
+      "name": "code_postal",
+      "title": "Code postal",
+      "type": "string"
+    },
+    {
+      "name": "adresse",
+      "title": "Adresse",
+      "type": "string"
+    },
+    {
       "name": "departement",
+      "title": "Code du département",
       "type": "string"
     },
     {
